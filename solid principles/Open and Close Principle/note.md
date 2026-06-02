@@ -1,0 +1,1 @@
+The software entities should be open for extension but close for modification.
