@@ -1,0 +1,1 @@
+It states that the object of the superclass should be replacable by the objects of the subclasses without affecting the correctness of the program
