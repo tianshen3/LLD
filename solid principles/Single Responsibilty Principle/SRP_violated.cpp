@@ -57,3 +57,13 @@ public:
         cout<<"Saving shopping cart to database.. "<<endl;
     }
 };
+
+int main() {
+    ShoppingCart* cart = new ShoppingCart();
+
+    cart->addProduct(new Product("Laptop", 50000));
+    cart->addProduct(new Product("Mouse", 2000));
+    cart->printInovice();
+    cart->saveToDB();
+    return 0;
+}
