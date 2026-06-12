@@ -1,1 +1,2 @@
 The software entities should be open for extension but close for modification.
+In a class a all the mehods are collectively responsible for a single responsibility this can be extended by adding more methods but those methods must not overextend those resoponsibilites to perform other functions
