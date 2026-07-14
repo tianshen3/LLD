@@ -1054,6 +1054,6 @@ GameManager* GameManager::instance = nullptr;
 
 
 int main(){
-    //futher check;
+    
 }
 
